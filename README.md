@@ -4,33 +4,21 @@
 
 **Backend Developer in Progress · Building things that matter in Nepal**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/manish-gautam-9838ab283/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gautammanish975@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://manishgautam.info.np)
 
 </div>
 
 ---
 
-## Who I am
+## Who am I?
 
 Software Engineering student at **NCIT, Balkumari, Lalitpur** (Pokhara University) — 6th semester.
 
 I learn by building, not by watching. My goal is to become a top-tier backend developer: the kind who understands what happens under the hood, not just which framework to `pip install`.
 
 Currently deep in Django REST Framework, PostgreSQL, and JWT-based auth systems. Frontend enough to ship. Backend enough to care about things like query optimization and schema design before writing a single view.
-
----
-
-## What I'm building
-
-### 🏠 TenantPlus
-> A tenancy management platform built for Nepal's rental market
-
-The gap I'm solving: landlords and tenants in Nepal have no structured digital layer for agreements, payments, KYC, disputes, and communication. TenantPlus is that layer.
-
-**Stack:** Django REST Framework · PostgreSQL · React · JWT Auth · Docker (planned)  
-**Status:** Active development — Phase 1 (auth + property listings)
 
 ---
 
@@ -68,9 +56,9 @@ The gap I'm solving: landlords and tenants in Nepal have no structured digital l
 
 <div align="center">
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishishere&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishishere&layout=compact&hide_border=true&theme=default)
 
 </div>
 
