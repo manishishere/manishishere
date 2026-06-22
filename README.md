@@ -1,5 +1,5 @@
 <h1>Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1> 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=manishishere&label=Visitors&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=manishishere%2Fmanishishere&label=Visitors&countColor=%23dce775)
 
 
 <a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"></a>
