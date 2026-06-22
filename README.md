@@ -1,4 +1,5 @@
-This is one of my first github repo 
-I am very excited 
-I am doint this to learn machine learning
-I hope i will be able to pull this off
+<h1>Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1> 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmanishishere%2Fmanishishere%2F&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmanishishere%2Fmanishishere%2F)
+<a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"></a>
+<h3> Connect with me: <a href="https://www.linkedin.com/in/venelouis/" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="150" /></a> <a href="https://github.com/venelouis?tab=followers" />
+<img src="https://img.shields.io/github/followers/venelouis?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge Followers conunter" width="130"  align="right" /></a>
