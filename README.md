@@ -14,7 +14,7 @@
 
 ## Who am I?
 
-Software Engineering student at **NCIT, Balkumari, Lalitpur** (Pokhara University) — 6th semester.
+Software Engineering student at **NCIT, Balkumari, Lalitpur** (Pokhara University) — 7th semester.
 
 I learn by building, not by watching. My goal is to become a top-tier backend developer: the kind who understands what happens under the hood, not just which framework to `pip install`.
 
@@ -41,16 +41,6 @@ Currently deep in Django REST Framework, PostgreSQL, and JWT-based auth systems.
 - Ask broad questions, then commit to a direction
 - Fix gaps in understanding before moving forward
 
----
-
-## Currently
-
-- 📐 Designing the TenantPlus database schema (17 tables, fully normalized)
-- 🔐 Implementing custom User model with JWT auth in Django
-- 📄 Writing technical documentation: UML diagrams, ER diagrams, API specs
-- 📚 6th semester — minor project phase
-
----
 
 ## GitHub Stats
 
