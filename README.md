@@ -4,7 +4,7 @@
 
 **Backend Developer in Progress · Building things that matter in Nepal**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/manish-gautam-9838ab283/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/mn1sh))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gautammanish975@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://manishgautam.info.np)
 
